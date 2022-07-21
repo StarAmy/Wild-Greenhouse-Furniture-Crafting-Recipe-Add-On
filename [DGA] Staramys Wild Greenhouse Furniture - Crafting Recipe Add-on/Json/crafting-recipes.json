@@ -1,0 +1,722 @@
+[
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Horned Owl on Stand",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bird_horned_owl",
+            "NameOverride":"A horned owl that seems fairly tame.",
+            "IconOverride":"assets/objects.png:11"
+         }
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Horned Owl on Stand"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Crow on Stand",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bird_crow",
+            "NameOverride":"A crow that seems fairly tame.",
+            "IconOverride":"assets/objects.png:9"
+         }
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Crow on Stand"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Seagull on Stand",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bird_seagull",
+            "NameOverride":"A seagull that seems fairly tame.",
+            "IconOverride":"assets/objects.png:10"
+         }
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Seagull on Stand"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Military Macaw on Stand",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bird_military_macaw",
+            "NameOverride":"A fertile military macaw egg.",
+            "IconOverride":"assets/objects.png:15"
+         }
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Military Macaw on Stand"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Hyacinth Macaw on Stand",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bird_hyacinth_macaw",
+            "NameOverride":"A fertile hyacinth macaw egg.",
+            "IconOverride":"assets/objects.png:12"
+         }
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Hyacinth Macaw on Stand"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Scarlet Macaw on Stand",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bird_scarlet_macaw",
+            "NameOverride":"A fertile scarlet macaw egg.",
+            "IconOverride":"assets/objects.png:13"
+         }
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Scarlet Macaw on Stand"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Blue and Gold Macaw on Stand",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bird_blue_gold_macaw",
+            "NameOverride":"A fertile blue and gold macaw egg.",
+            "IconOverride":"assets/objects.png:14"
+         }
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Blue and Gold Macaw on Stand"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Kestrel on Stand",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bird_Kestrel",
+            "NameOverride":"A Kestrel that seems fairly tame.",
+            "IconOverride":"assets/objects.png:5"
+         }
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Kestrel on Stand"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Toucan on Stand",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bird_toucan",
+            "NameOverride":"A toucan that seems fairly tame.",
+            "IconOverride":"assets/objects.png:4"
+         }
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Toucan on Stand"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Cockatoo on Stand",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bird_cockatoo",
+            "NameOverride":"A cockatoo that seems fairly tame.",
+            "IconOverride":"assets/objects.png:2"
+         }
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Cockatoo on Stand"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Pelican on Stand",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bird_pelican",
+            "NameOverride":"A pelican that seems fairly tame.",
+            "IconOverride":"assets/objects.png:6"
+         }
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Pelican on Stand"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Lorikeet on Stand",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bird_lorikeet",
+            "NameOverride":"A lorikeet that seems fairly tame.",
+            "IconOverride":"assets/objects.png:0"
+         }
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Lorikeet on Stand"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Sun Conure on Stand",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bird_sun_conure",
+            "NameOverride":"A sun conure that seems fairly tame.",
+            "IconOverride":"assets/objects.png:1"
+         }
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Sun Conure on Stand"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted African Grey Parrot on Stand",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bird_african_grey_parrot",
+            "NameOverride":"An african grey parrot that seems fairly tame.",
+            "IconOverride":"assets/objects.png:3"
+         }
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/African Grey Parrot on Stand"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Meyers Parrot on Stand",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bird_meyers_parrot",
+            "NameOverride":"A meyer's parrot that seems fairly tame.",
+            "IconOverride":"assets/objects.png:8"
+         }
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Meyers Parrot on Stand"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Barn Owl on Stand",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bird_barn_owl",
+            "NameOverride":"A barn owl that seems fairly tame.",
+            "IconOverride":"assets/objects.png:7"
+         }
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Barn Owl on Stand"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Orchid Display",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"ContextTag",
+            "Value":"flower_orchid",
+            "NameOverride":"Any flowering orchid.",
+            "IconOverride":"assets/objects.png:16"
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bug_orchid_mantis",
+            "NameOverride":"A pretty camoflouged bug.",
+            "IconOverride":"assets/objects.png:17"
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"335",
+            "Quantity": 1
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Orchid Display"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted False Insect Display",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"ContextTag",
+            "Value":"bug_leaf_insect",
+            "NameOverride":"A bug camoflouged as a leaf.",
+            "IconOverride":"assets/objects.png:18"
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bug_stick_insect",
+            "NameOverride":"A bug camoflouged as a stick.",
+            "IconOverride":"assets/objects.png:19"
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"335",
+            "Quantity": 1
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/False Insect Display"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Brackish Display",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"ContextTag",
+            "Value":"plant_mangrove",
+            "NameOverride":"A hardy tree that grows in salty water.",
+            "IconOverride":"assets/objects.png:20"
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"critter_mudskipper",
+            "NameOverride":"A semi-aquatic fish that can breathe on land.",
+            "IconOverride":"assets/objects.png:21"
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"335",
+            "Quantity": 1
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Brackish Display"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Anemone Display",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"ContextTag",
+            "Value":"fish_anemone",
+            "NameOverride":"A stinging critter that serves as a host to clownfish.",
+            "IconOverride":"assets/objects.png:22"
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"fish_clownfish",
+            "NameOverride":"A fish that lives in sea anemones.",
+            "IconOverride":"assets/objects.png:23"
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"335",
+            "Quantity": 1
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Anemone Display"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Fancy Bog Display",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"ContextTag",
+            "Value":"plant_bog",
+            "NameOverride":"Any carnivorous bog plant.",
+            "IconOverride":"assets/objects.png:24"
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"plant_bog",
+            "NameOverride":"Any carnivorous bog plant.",
+            "IconOverride":"assets/objects.png:25"
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"335",
+            "Quantity": 1
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Fancy Bog Display"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Anthill Display",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"ContextTag",
+            "Value":"critter_lizard",
+            "NameOverride":"A small lizard.",
+            "IconOverride":"assets/objects.png:26"
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bug_anthill",
+            "NameOverride":"An active anthill..",
+            "IconOverride":"assets/objects.png:27"
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"335",
+            "Quantity": 1
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Anthill Display"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Dart Frog Display",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"ContextTag",
+            "Value":"decor_waterfall",
+            "NameOverride":"A flowering waterfall.",
+            "IconOverride":"assets/objects.png:28"
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"critter_dart_frog",
+            "NameOverride":"Any dart frog.",
+            "IconOverride":"assets/objects.png:29"
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"335",
+            "Quantity": 1
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Dart Frog Display"
+            }
+         }
+      ]
+   },
+   {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Firefly Display",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"ContextTag",
+            "Value":"bug_firefly",
+            "NameOverride":"A glowing firefly.",
+            "IconOverride":"assets/objects.png:30"
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"bug_cricket",
+            "NameOverride":"A jumpy little cricket.",
+            "IconOverride":"assets/objects.png:31"
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"335",
+            "Quantity": 1
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Firefly Display"
+            }
+         }
+      ]
+   },
+]
