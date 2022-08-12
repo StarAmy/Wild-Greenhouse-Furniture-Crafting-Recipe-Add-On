@@ -719,4 +719,478 @@
          }
       ]
    },
+    {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafed Lorikeet Wall Display",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"ContextTag",
+            "Value":"bird_lorikeet",
+            "NameOverride":"A lively lorikeet.",
+            "IconOverride":"assets/objects.png:0"
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"decor_driftwood",
+            "NameOverride":"Any piece of unbleached tank driftwood.",
+            "IconOverride":"assets/objects.png:33"
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"335",
+            "Quantity": 1
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Lorikeet Wall Display"
+            }
+         }
+      ]
+   },
+    {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Ferret Wall Display",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"ContextTag",
+            "Value":"critter_ferret",
+            "NameOverride":"A playful and fuzzy ferret.",
+            "IconOverride":"assets/objects.png:34"
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"decor_bowls",
+            "NameOverride":"Everything a growing critter needs.",
+            "IconOverride":"assets/objects.png:35"
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"335",
+            "Quantity": 1
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Ferret Wall Display"
+            }
+         }
+      ]
+   },
+    {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Freshwater Wall Display",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"ContextTag",
+            "Value":"fish_neon_tetra",
+            "NameOverride":"A school of bright neon tetras.",
+            "IconOverride":"assets/objects.png:36"
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"fish_zebra_pleco",
+            "NameOverride":"A beautiful striped zebra pleco.",
+            "IconOverride":"assets/objects.png:37"
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"335",
+            "Quantity": 1
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Freshwater Wall Display"
+            }
+         }
+      ]
+   },
+    {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Saltwater Wall Display",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"ContextTag",
+            "Value":"fish_seahorse",
+            "NameOverride":"Any color of seahorse.",
+            "IconOverride":"assets/objects.png:38"
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"decor_red_coral_rock",
+            "NameOverride":"Any red rock covered in coral.",
+            "IconOverride":"assets/objects.png:39"
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"335",
+            "Quantity": 1
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Saltwater Wall Display"
+            }
+         }
+      ]
+   },
+    {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Plant Wall Display",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"ContextTag",
+            "Value":"flower_orchid",
+            "NameOverride":"Any flowering orchid.",
+            "IconOverride":"assets/objects.png:16"
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"plant_monstera",
+            "NameOverride":"A bushy tropical vine.",
+            "IconOverride":"assets/objects.png:32"
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"335",
+            "Quantity": 1
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Plant Wall Display"
+            }
+         }
+      ]
+   },
+    {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Dart Frog Wall Display",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"ContextTag",
+            "Value":"decor_waterfall",
+            "NameOverride":"A flowing waterfall decoration.",
+            "IconOverride":"assets/objects.png:28"
+         },
+         {
+            "Type":"ContextTag",
+            "Value":"critter_dart_frog",
+            "NameOverride":"Any color of poison dart frog.",
+            "IconOverride":"assets/objects.png:29"
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"335",
+            "Quantity": 1
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Dart Frog Wall Display"
+            }
+         }
+      ]
+   },
+     {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Angler Mount",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"160",
+            "Quantity": 1
+         },
+        {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Angler Mount"
+            }
+         }
+      ]
+   },
+     {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Ms Angler Mount",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"899",
+            "Quantity": 1
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Ms Angler Mount"
+            }
+         }
+      ]
+   },
+     {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Crimsonfish Mount",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"159",
+            "Quantity": 1
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Crimsonfish Mount"
+            }
+         }
+      ]
+   },
+     {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Son of Crimsonfish Mount",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"898",
+            "Quantity": 1
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Son of Crimsonfish Mount"
+            }
+         }
+      ]
+   },
+     {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Glacierfish Mount",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"775",
+            "Quantity": 1
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Glacierfish Mount"
+            }
+         }
+      ]
+   },
+     {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Glacierfish Jr Mount",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"902",
+            "Quantity": 1
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Glacierfish Jr Mount"
+            }
+         }
+      ]
+   },
+     {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Mutant Carp Mount",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"682",
+            "Quantity": 1
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Mutant Carp Mount"
+            }
+         }
+      ]
+   },
+     {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Radioactive Carp Mount",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"901",
+            "Quantity": 1
+         },
+        {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Radioactive Carp Mount"
+            }
+         }
+      ]
+   },
+     {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Legend Mount",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"163",
+            "Quantity": 1
+         },
+        {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Legend Mount"
+            }
+         }
+      ]
+   },
+     {
+      "$ItemType":"CraftingRecipe",
+      "ID":"Crafted Legend Two Mount",
+      "IsCooking":false,
+      "KnownByDefault":true,
+      "Ingredients":[
+         {
+            "Type":"VanillaObject",
+            "Value":"900",
+            "Quantity": 1
+         },
+         {
+            "Type":"VanillaObject",
+            "Value":"709",
+            "Quantity": 10
+         },
+      ],
+      "Result":[
+         {
+            "Weight":10,
+            "Value":{
+               "Type":"DGAItem",
+               "Value":"staramy.furniture/Legend Two Mount"
+            }
+         }
+      ]
+   },
 ]
